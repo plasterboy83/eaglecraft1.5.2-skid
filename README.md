@@ -1,3 +1,4 @@
 # eaglecraft1.5.2-unblocked
-omg
-Eaglecraft is already on github just not on pages so I put it on pages because some people might not know how to download it.
+people keep forking this lol
+Eaglecraft is no longer on github so i guess this is a public archive now
+MC version 1.5.2
